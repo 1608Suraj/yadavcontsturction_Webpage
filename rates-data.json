@@ -1,0 +1,25 @@
+{
+  "location": "Indore, Madhya Pradesh",
+  "last_updated": "24 Sep 2026",
+  "currency": "INR",
+  "disclaimer": "Approximate market reference rates compiled from public sources. Confirm current pricing with suppliers before quoting clients — these are not live/contracted rates.",
+  "materials": [
+    { "item": "Cement (OPC 43, 50kg bag)", "low": 382, "high": 423, "unit": "bag" },
+    { "item": "Cement (OPC 53, 50kg bag)", "low": 402, "high": 443, "unit": "bag" },
+    { "item": "Cement (PPC, 50kg bag)", "low": 362, "high": 402, "unit": "bag" },
+    { "item": "TMT Steel 8mm", "low": 58, "high": 64, "unit": "kg" },
+    { "item": "TMT Steel 12mm", "low": 56, "high": 62, "unit": "kg" },
+    { "item": "TMT Steel 16-20mm", "low": 55, "high": 61, "unit": "kg" },
+    { "item": "River Sand", "low": 1997, "high": 2662, "unit": "tonne" },
+    { "item": "M-Sand", "low": 1331, "high": 1775, "unit": "tonne" },
+    { "item": "Plastering Sand (P-Sand)", "low": 1553, "high": 1997, "unit": "tonne" },
+    { "item": "Ready-Mix Concrete M20", "low": 4354, "high": 5442, "unit": "cubic m" },
+    { "item": "Ready-Mix Concrete M25", "low": 4849, "high": 5838, "unit": "cubic m" }
+  ],
+  "labour": [
+    { "role": "Mason", "low": 500, "high": 700, "unit": "day" },
+    { "role": "Helper", "low": 350, "high": 450, "unit": "day" },
+    { "role": "Carpenter", "low": 550, "high": 750, "unit": "day" },
+    { "role": "Electrician", "low": 450, "high": 650, "unit": "day" }
+  ]
+}
