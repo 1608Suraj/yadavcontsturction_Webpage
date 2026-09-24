@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Yadav Construction Indore</title>
+  <desc id="desc">Residential and commercial construction contractor in Indore</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#211D19"/>
+      <stop offset="100%" stop-color="#3D4A52"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="66" y="66" width="1068" height="498" fill="none" stroke="#B9862F" stroke-width="4"/>
+  <g transform="translate(120 140)">
+    <text x="0" y="0" fill="#B9862F" font-family="Georgia,serif" font-size="54" font-weight="700">YADAV CONSTRUCTION INDORE</text>
+    <text x="0" y="86" fill="#FAF7F2" font-family="Arial,sans-serif" font-size="50" font-weight="700">Residential &amp; Commercial</text>
+    <text x="0" y="152" fill="#FAF7F2" font-family="Arial,sans-serif" font-size="50" font-weight="700">Construction Contractor</text>
+    <text x="0" y="218" fill="#FAF7F2" font-family="Arial,sans-serif" font-size="50" font-weight="700">in Indore</text>
+    <text x="0" y="288" fill="#D3CCBF" font-family="Arial,sans-serif" font-size="30">30+ years of key-in-hand project delivery</text>
+    <text x="0" y="340" fill="#D3CCBF" font-family="Arial,sans-serif" font-size="30">Foundation to finishing under one team</text>
+  </g>
+</svg>
