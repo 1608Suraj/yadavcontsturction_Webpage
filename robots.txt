@@ -1,4 +1,5 @@
 User-agent: Googlebot
+Allow: /favicon.ico
 Allow: /assets/favicon/
 
 User-agent: *
